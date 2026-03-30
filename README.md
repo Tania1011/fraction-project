@@ -20,14 +20,14 @@
 ## Example
 
 ```
-f = Fraction(1, 2)
-g = Fraction(3, 4)
+f = Fraction(2, 3)
 
-print(f + g)       # 5/4
-print(f * 2)       # 1/1
-print(-f)          # -1/2
-print(abs(Fraction(-3, 4)))  # 3/4
+print(f + 1)     # 3/2
+print(f * 2)     # 1/1
+print(f - 1)     # -1/2
+print(f / 2)     # 1/4
 
-print(f < g)       # True
+print(f < 1)     # True
 print(f == Fraction(2, 4))  # True
+print(f > 1)     # False
 ```
