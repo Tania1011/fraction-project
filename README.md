@@ -1,7 +1,7 @@
 # Fraction Class – Learning OOP in Python
 
 ## This project is a simple Fraction class to practice Object-Oriented Programming (OOP) concepts in Python. Supports basic arithmetic and comparisons.
-```
+
 
 # Features
 - Creating classes and objects
