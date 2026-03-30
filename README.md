@@ -16,3 +16,18 @@
 - Denominator cannot be zero
 - Fractions are always simplified
 - Designed to practice OOP concepts
+
+## Example
+
+```
+f = Fraction(1, 2)
+g = Fraction(3, 4)
+
+print(f + g)       # 5/4
+print(f * 2)       # 1/1
+print(-f)          # -1/2
+print(abs(Fraction(-3, 4)))  # 3/4
+
+print(f < g)       # True
+print(f == Fraction(2, 4))  # True
+```
