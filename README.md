@@ -25,7 +25,7 @@ This project is a simple Fraction class to practice Object-Oriented Programming 
 ## Example
 
 ```
-f = Fraction(2, 3)
+f = Fraction(2, 3) # 1/2
 
 print(f + 1)     # 3/2
 print(f * 2)     # 1/1
