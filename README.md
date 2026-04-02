@@ -1,18 +1,18 @@
 # Fraction Class – Learning OOP in Python
 
-This project is a simple Fraction class to practice Object-Oriented Programming (OOP) concepts in Python. Supports basic arithmetic and comparison operations using operator overloading.
+This project is a simple Fraction class to practice Object-Oriented Programming (OOP) concepts in Python. Supports basic arithmetic operations using operator overloading.
 
 ---
 
 ## Features
 
 - Creating classes and objects
-- Constructor (__init__) and attributes
-- Methods for arithmetic operations: +, -, *, /
+- Constructor `(__init__)` and attributes
+- Methods for arithmetic operations: `+`, `-`, `*`, `/`
 - Operator overloading
-- Comparison operators: ==, !=, <, >
-- Unary operators: -, abs()
-- Simplifying fractions using GCD
+- Comparison operators: `==`, `!=`, `<`, `>`
+- Unary operators: `-`, `abs()`
+- Simplifying fractions using `GCD`
 
 ---
 
